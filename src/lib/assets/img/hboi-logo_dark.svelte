@@ -1,4 +1,4 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 591 237">
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 591 237" class="logo">
 	<title>Logo_HBOi_invert_trans-svg</title>
 	<defs>
 		<image
